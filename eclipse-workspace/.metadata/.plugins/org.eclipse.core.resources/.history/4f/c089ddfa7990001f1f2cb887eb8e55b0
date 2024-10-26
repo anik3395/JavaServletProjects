@@ -1,0 +1,50 @@
+package com.anik;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+
+@WebServlet("/register")
+public class StudentServlet extends HttpServlet {
+	
+	// A list to store registered students in memory
+    private static final List<Student> students = new ArrayList<>();
+    
+   // doGet method to display the registration form
+    
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// Set response content type to HTML
+        response.setContentType("text/html");
+        
+        // Use PrintWriter to send the registration form as an HTML response
+        PrintWriter out = response.getWriter();
+        out.println("<html><body>");
+        out.println("<h2>Student Registration</h2>");
+        out.println("<form action='register' method='post'>");
+        out.println("Name: <input type='text' name='name' required><br><br>");
+        out.println("Email: <input type='email' name='email' required><br><br>");
+        out.println("Course: <select name='course'>");
+        out.println("<option value='Java'>Java</option>");
+        out.println("<option value='Python'>Python</option>");
+        out.println("<option value='JavaScript'>JavaScript</option>");
+        out.println("</select><br><br>");
+        out.println("<input type='submit' value='Register'>");
+        out.println("</form>");
+        out.println("</body></html>");
+	}
+
+	
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		doGet(request, response);
+	}
+
+}

@@ -1,0 +1,19 @@
+#Tomcat publish data
+#Sat Oct 26 18:42:07 BDT 2024
+org.eclipse.jst.jee.server\:DatabaseServletConnection=C\:\\Users\\ASUS\\Desktop\\apache-tomcat-9.0.96-windows-x64\\apache-tomcat-9.0.96\\wtpwebapps\\DatabaseServletConnection
+org.eclipse.jst.jee.server\:DemoAppp=C\:\\Users\\ASUS\\Desktop\\apache-tomcat-9.0.96-windows-x64\\apache-tomcat-9.0.96\\wtpwebapps\\DemoAppp
+org.eclipse.jst.jee.server\:FeedbackCollectionSystem=C\:\\Users\\ASUS\\Desktop\\apache-tomcat-9.0.96-windows-x64\\apache-tomcat-9.0.96\\wtpwebapps\\FeedbackCollectionSystem
+org.eclipse.jst.jee.server\:FirstDemo=C\:\\Users\\ASUS\\Desktop\\apache-tomcat-9.0.96-windows-x64\\apache-tomcat-9.0.96\\wtpwebapps\\FirstDemo
+org.eclipse.jst.jee.server\:HttpServletRequestResponse=C\:\\Users\\ASUS\\Desktop\\apache-tomcat-9.0.96-windows-x64\\apache-tomcat-9.0.96\\wtpwebapps\\HttpServletRequestResponse
+org.eclipse.jst.jee.server\:JspDemo1=C\:\\Users\\ASUS\\Desktop\\apache-tomcat-9.0.96-windows-x64\\apache-tomcat-9.0.96\\wtpwebapps\\JspDemo1
+org.eclipse.jst.jee.server\:JspDemo2=C\:\\Users\\ASUS\\Desktop\\apache-tomcat-9.0.96-windows-x64\\apache-tomcat-9.0.96\\wtpwebapps\\JspDemo2
+org.eclipse.jst.jee.server\:LoginProject=C\:\\Users\\ASUS\\Desktop\\apache-tomcat-9.0.96-windows-x64\\apache-tomcat-9.0.96\\wtpwebapps\\LoginProject
+org.eclipse.jst.jee.server\:ProjectUpdate=C\:\\Users\\ASUS\\Desktop\\apache-tomcat-9.0.96-windows-x64\\apache-tomcat-9.0.96\\wtpwebapps\\ProjectUpdate
+org.eclipse.jst.jee.server\:ScriptingTagDemo=C\:\\Users\\ASUS\\Desktop\\apache-tomcat-9.0.96-windows-x64\\apache-tomcat-9.0.96\\wtpwebapps\\ScriptingTagDemo
+org.eclipse.jst.jee.server\:ServletFirstDemo=C\:\\Users\\ASUS\\Desktop\\apache-tomcat-9.0.96-windows-x64\\apache-tomcat-9.0.96\\wtpwebapps\\ServletFirstDemo
+org.eclipse.jst.jee.server\:SimpleContactFormApplication=C\:\\Users\\ASUS\\Desktop\\apache-tomcat-9.0.96-windows-x64\\apache-tomcat-9.0.96\\wtpwebapps\\SimpleContactFormApplication
+org.eclipse.jst.jee.server\:StudentRegistrationSystem=C\:\\Users\\ASUS\\Desktop\\apache-tomcat-9.0.96-windows-x64\\apache-tomcat-9.0.96\\wtpwebapps\\StudentRegistrationSystem
+org.eclipse.jst.jee.server\:Tutul=C\:\\Users\\ASUS\\Desktop\\apache-tomcat-9.0.96-windows-x64\\apache-tomcat-9.0.96\\wtpwebapps\\Tutul
+org.eclipse.jst.jee.server\:WebServletWithoutWebXml=C\:\\Users\\ASUS\\Desktop\\apache-tomcat-9.0.96-windows-x64\\apache-tomcat-9.0.96\\wtpwebapps\\WebServletWithoutWebXml
+org.eclipse.jst.jee.server\:WebXmlDemo1=C\:\\Users\\ASUS\\Desktop\\apache-tomcat-9.0.96-windows-x64\\apache-tomcat-9.0.96\\wtpwebapps\\WebXmlDemo1
+org.eclipse.jst.jee.server\:project=C\:\\Users\\ASUS\\Desktop\\apache-tomcat-9.0.96-windows-x64\\apache-tomcat-9.0.96\\wtpwebapps\\project

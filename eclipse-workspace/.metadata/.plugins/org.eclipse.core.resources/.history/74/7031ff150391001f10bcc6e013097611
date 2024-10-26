@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Submit Your Feedback</title>
+</head>
+<body>
+<h1>Hi, Please Submit Your Feedback.</h1>
+
+<form action="submitFeedback" method="post">
+
+<label for="name" >Name:</label><br>
+<input type="text" name="name" required><br><br>
+
+</form>
+
+</body>
+</html>

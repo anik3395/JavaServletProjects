@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="ScriptingTagDemo">
+        <property name="context-root" value="ScriptingTagDemo"/>
+        <property name="java-output-path" value="/ScriptingTagDemo/build/classes"/>
+    </wb-module>
+</project-modules>

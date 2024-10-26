@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Student Registration Form</title>
+</head>
+<body>
+
+<h1>Student Registration Form</h1>
+ 
+ <!-- Create a form for Registration -->
+<form action="register" method="post">
+<!-- Create all input field  -->
+Name: <input type="text" name="name" required><br><br>
+
+Email: <input type="email" name="email" required><br><br>
+
+Course: <select name="course">
+            <option >Java</option>
+            <option >Python</option>
+            <option >JavaScript</option>
+
+</select>
+
+</form>
+
+</body>
+</html>
